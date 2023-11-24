@@ -2,7 +2,7 @@
 
 ![Custom Loading Animation Example](https://github.com/josiah-brown/eye-candy/blob/main/public/loading-animation-1.gif)
 
-This is an ongoing playground for experimenting with GSAP. Loading annimations, page transitions, and the other random animations.
+This is an ongoing playground for experimenting with GSAP. Loading animations, page transitions, and the other random animations.
 
 ## Run Locally
 
